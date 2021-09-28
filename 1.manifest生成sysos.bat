@@ -1,0 +1,1 @@
+tools\rsrc.exe -manifest project.manifest -o rsrc.syso
